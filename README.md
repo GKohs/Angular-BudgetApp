@@ -1,3 +1,18 @@
+# General Information
+
+Following a tutorial.
+Current status: https://youtu.be/sU4z4Ti-8OQ?t=7119
+
+Some common commands:
+    Starts and opens server session:
+        ng serve -o
+
+    To create components:
+        ng g c [name]
+
+Get a better look at:
+ - flex-box
+
 # BudgetApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
