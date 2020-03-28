@@ -1,8 +1,8 @@
 # General Information
 
-Following a [tutorial](https://youtu.be/sU4z4Ti-8OQ) by Devstackr.
+Followed a [tutorial](https://youtu.be/sU4z4Ti-8OQ) by Devstackr.
 
-This is the 2nd Angular tutorial I follow to get a better understanding and I can recommend it.
+This is the 2nd Angular tutorial I follow to get a better understanding with Angular and I can recommend it.
 
 Some common commands:
 
@@ -10,10 +10,11 @@ Some common commands:
         ng serve -o
 
     To create components:
-        ng g c [name]
+        ng g c [component-name]
 
-Get a better look at:
- - flex-box
+ToDo:
+ - Get a better look at:
+    - flex-box
 
 # BudgetApp
 
