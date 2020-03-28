@@ -1,9 +1,11 @@
 # General Information
 
-Following a tutorial.
-Current status: https://youtu.be/sU4z4Ti-8OQ?t=7119
+Following a [tutorial](https://youtu.be/sU4z4Ti-8OQ) by Devstackr.
+
+This is the 2nd Angular tutorial I follow to get a better understanding and I can recommend it.
 
 Some common commands:
+
     Starts and opens server session:
         ng serve -o
 
