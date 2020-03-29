@@ -1,8 +1,9 @@
 # General Information
 
-I Followed a [tutorial](https://youtu.be/sU4z4Ti-8OQ) by Devstackr.
+I followed a [tutorial](https://youtu.be/sU4z4Ti-8OQ) by Devstackr. It's the 2nd Angular tutorial I've followed to get a better understanding with Angular and I can recommend it.
 
-This is the 2nd Angular tutorial I've followed to get a better understanding with Angular and I can recommend it.
+You can see the webpage [here](https://gkohs.github.io/Angular-BudgetApp/).
+It's not mobile friendly.
 
 Some common commands:
 
