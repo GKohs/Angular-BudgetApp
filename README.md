@@ -1,8 +1,8 @@
 # General Information
 
-Followed a [tutorial](https://youtu.be/sU4z4Ti-8OQ) by Devstackr.
+I Followed a [tutorial](https://youtu.be/sU4z4Ti-8OQ) by Devstackr.
 
-This is the 2nd Angular tutorial I follow to get a better understanding with Angular and I can recommend it.
+This is the 2nd Angular tutorial I've followed to get a better understanding with Angular and I can recommend it.
 
 Some common commands:
 
